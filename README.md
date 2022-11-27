@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me :
 
-- 💬 Ask me about **PHP, Python, Javascript**
+- 💬 Me gusta habalr sobre **PHP, Python, Javascript**
 
-- 📫 How to reach me **cerdamauricio94@gmail.com**
+- 📫 Contacto **cerdamauricio94@gmail.com**
 
-- 🌱 I’m currently learning **Blockchain, Web**
+- 🌱 Actualmente estoy aprendiendo **HTML5, CSS3**
 
 - 🌐 Website https://www.facebook.com/maury.cerda
 
