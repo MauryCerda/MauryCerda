@@ -4,4 +4,8 @@
 	<h3 align="center"> Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo de las tecnologías como la programación y la 				telecomunicaciones, dos ramas que me apasionan. Sin muchas mas palabras, espero que tu visita sea de agrado, Gracias y Saludos!
 	</h3>
 </div>
+<div id="header" align="center">
+	<a href="https://img.shields.io/twitter/url?style=flat-square" target="_blank">
+	<img src="https://ing.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge" alt="twitter Bagge" />
+</div>
 
