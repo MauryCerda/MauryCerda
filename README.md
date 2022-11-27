@@ -11,10 +11,7 @@
         <img src="https://img.shields.io/youtube/channel"
             alt="Youtube" />
     </a>
-    <a href="https://twitter.com" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/GrochMaury?color=blue&label=GrochMaury&logo=twitter&style=for-the-badge"
-            alt="Twitter" />
-    </a>
+   
 </div>
 
 ---
