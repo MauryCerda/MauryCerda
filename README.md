@@ -6,6 +6,6 @@
 </div>
 <div id="header" align="center">
 	<a href="https://img.shields.io/twitter/url?style=flat-square" target="_blank">
-	<img src="https://ing.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge" alt="twitter Bagge" />
+	<img src="https://img.shields.io/twitter/url?style=flat-square" alt="twitter" />
 </div>
 
