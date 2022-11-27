@@ -12,4 +12,10 @@
 	<img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FGrochMaury">
 </div>
 ---
+### About Me:
+- Ask me about **PHP, Python, JavaScript**
+- How to reach me **cerdamauricio94@gmail.com**
+- I´m currently learning **Blockchain, web**
+- website **https://www.facebook.com/maury.cerda**
+		
 		
