@@ -6,6 +6,7 @@
 </div>
 <div id="header" align="center">
 	<a href="[https://img.shields.io/twitter/url?style=flat-square](https://twitter.com/GrochMaury)" target="_blank">
-	<img src="https://img.shields.io/twitter/url?style=flat-square" alt="twitter" />
+	<div id="header" align="center">
+	<a href="https://img.shields.io/twitter/url?style=flat-square" target="_blank">
+	<img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FGrochMaury">
 </div>
-
