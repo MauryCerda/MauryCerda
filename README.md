@@ -25,21 +25,13 @@
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
-    <div>
-        <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
- 	<code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  	<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  	<code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-	<br />
- 	<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  	<code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-   	<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-    	<br/>
-     	<code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-		logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
-      	<code><a href="https://www.arduino.cc/"><img height="40" 								src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" /></a>		</code>
-	
-  <br />
-      </div>
+   	<p align="left">
+  		<a href="https://skillicons.dev">
+    		<img src="https://skillicons.dev/icons?	i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+ 		 </a>
+	</p>
+	<br>
+</div>
 </div>
 
 ---
