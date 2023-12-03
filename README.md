@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https:)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MauryCerda)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
-[![Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat&logo=Youtube&logoColor=white)](https:)
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCs5BQZojpNwRLC6JzyH1yxQ)
 
 
 ---
