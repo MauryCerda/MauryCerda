@@ -1,7 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Mauricio Cerda</h1>
-    <h3 align="center">Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo de las tecnologías como la programación y la telecomunicaciones, dos ramas que me apasionan. Sin muchas mas palabras, espero que tu visita sea de agrado, Gracias y Saludos!</h3>
+    <h3 align="center">Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo de las tecnologías como la programación y la telecomunicaciones, dos ramas que me apasionan. Sin muchas mas palabras, espero que tu visita sea de agrado, Gracias y Saludos!
+    </h3>
 </div>
 
 ---
@@ -27,7 +28,8 @@
 	<h3>🔨 Languages and Tools:</h3>
    	<p align="left">
   		<a href="https://skillicons.dev">
-   		<img src="https://skillicons.dev/icons?				i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,docker,eclipse,vscode,bash,linux,ai," />
+   		<img src="https://skillicons.dev/icons?			 
+                i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,docker,eclipse,vscode,bash,linux,ai" />
   		</a>
 	</p>
 </div>
