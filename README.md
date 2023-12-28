@@ -24,16 +24,10 @@
 - 🌐 Website https://www.facebook.com/maury.cerda
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-   <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,dockereclipse,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
-</p>
-<br>
+	<h3>🔨 Languages and Tools:</h3>
+   	<p align="left">
+  		<a href="https://skillicons.dev">
+   		<img src="https://skillicons.dev/icons?				i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,docker,eclipse,vscode,bash,linux,ai," />
+  		</a>
+	</p>
 </div>
----
-### 📊 My Stats:
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-		
-		
