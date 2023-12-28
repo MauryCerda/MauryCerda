@@ -27,9 +27,8 @@
 <div align="left">
 	<h3>🔨 Languages and Tools:</h3>
    	<p align="left">
-  		<a href="https://skillicons.dev">
-   		<img src="https://skillicons.dev/icons?			 
-                i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,docker,eclipse,vscode,bash,linux,ai" />
-  		</a>
+  	<a href="https://skillicons.dev">
+   	<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,docker,eclipse,vscode,bash,linux,ai"/>		 
+       	</a>
 	</p>
 </div>
